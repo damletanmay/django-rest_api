@@ -106,7 +106,7 @@ Output in Postman:
 
 ### 3.To view all advisors.
 
-path  - https://django-rest-api-222.herokuapp.com/api/user/<user-id>/advisor/
+path  - https://django-rest-api-222.herokuapp.com/api/user/ < user-id > /advisor/
 
 Request Type - GET
 
@@ -123,7 +123,7 @@ Output in Postman:
 
 ### 4. To book a call.
 
-path  - https://django-rest-api-222.herokuapp.com/api/user/<user-id>/advisor/<advisor-id>/
+path  - https://django-rest-api-222.herokuapp.com/api/user/ < user-id > /advisor/ < advisor-id >/
 
 Request Type - POST
 
@@ -143,7 +143,7 @@ Output in Postman:
 		
 ### 5. To view all bookings of an user.
 
-path  - https://django-rest-api-222.herokuapp.com/api/user/<user-id>/advisor/booking/
+path  - https://django-rest-api-222.herokuapp.com/api/user/ < user-id > /advisor/booking/
 
 Request Type - GET
 
