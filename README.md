@@ -145,18 +145,10 @@ Output in Postman:
 
 path  - https://django-rest-api-222.herokuapp.com/api/user/<user-id>/advisor/booking/
 
-Request Type - POST
+Request Type - GET
 
-content -type = application / JSON
+request data: None
 
-request data:
-```
-{
-
-"time":"15-05-2021,2:30 PM"
-
-}
-```
 Output in Postman:
 
 ![5](https://github.com/damletanmay/django-rest_api/blob/master/test%20cases/5.png)
